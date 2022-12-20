@@ -1,9 +1,5 @@
-[
-    name="Course Intro"
-    contributors="Gregory Perrett"
-]    
 <XML>
-    <Lesson>
+    <Lesson Name="Course Intro" Contributors="Gregory Perrett">
         <Title> AP CSA Self Study Course Intro </Title>
     </Lesson>
 </XML>
