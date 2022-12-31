@@ -1,5 +1,30 @@
 <XML>
     <Lesson Name="Course Intro" Contributors="Gregory Perrett">
         <Title> AP CSA Self Study Course Intro </Title>
+        <Text> AP Computer Science A is a course covering the basics of computing in the Java programming language. </Text>
+        <Text> This course consists of 10 units, which directly match with the CollegeBoard standards listed at <Link> https://apstudents.collegeboard.org/courses/ap-computer-science-a </Link> </Text>
+        <Text> At the end of each unit, we include a project to hone ones skills, and we also have 'homework' included with each lesson, to mimic a classroom learning environment. </Text>
+        <Header> Unit 1: Primitive Types </Header>
+        <Text> The most important unit, everything else builds upon this. We learn about the basic datatypes and some basic ways to interact and manipulate them. </Text>
+        <Header> Unit 2: Using Objects </Header>
+        <Text> In Unit 2 we learn about Objects and Classes, and how to use the standard library. This is a tougher unit as it introduces alot of new concepts, however we will counter it with some fun projects! </Text>
+        <Header> Unit 3: Boolean Expressions and if Statements </Header>
+        <Text> This is where coding really starts kicking off, we learn about if statements which allow your code to produce different results, or even flow in completely different pathways depending on some condition. </Text>
+        <Header> Unit 4: Iteration </Header>
+        <Text> Despite this being such a large part of the exam, this unit is quite easy! We just learn about loops and some basic algorithims. </Text>
+        <Header> Unit 5: Writing Classes </Header>
+        <Text> In Unit 5 we build upon what we learned with Unit 2, and learn how to write classes. This is a bulkier unit, but is rather easy. </Text>
+        <Header> Unit 6: Arrays </Header>
+        <Text> In Unit 6 we learn about Arrays, which are just lists of numbers. Unit 4 comes into play alot here as we also learn about some basic algorithims for Arrays that involve Iteration. </Text>
+        <Header> Unit 7: ArrayList </Header>
+        <Text> Unit 7 is a really easy unit, in my honest opinion it should be combined with Unit 6. We learn about ArrayList which is just a class that serves as a wrapper for Arrays. </Text>
+        <Header> Unit 8: 2D Arrays </Header>
+        <Text> Another easy unit, also building upon arrays, Unit 8 is rather easy. We learn about Arrays of Arrays, which effectivly work like a table, or excel spreadsheet, so pretty simple. </Text>
+        <Header> Unit 9: Inheritance </Header>
+        <Text> Although words such as inheritance and polymorphism may seem daunting, this unit isn't that hard, and just builds upon Unit 5. </Text>
+        <Header> Unit 10: Recursion </Header>
+        <Text> We learn about recursion and related algorithims in this unit </Text> 
+        <Header> Extra Practice </Header>
+        <Text> At the end of the course, we include a section for extra practice / exam prep containing a list of resources that allow one to refine their skills. </Text>
     </Lesson>
 </XML>
