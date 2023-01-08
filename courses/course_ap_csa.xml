@@ -1,3 +1,5 @@
 <XML>
+    <CourseInfo> An introductory college level computer science course teaching the basics of the Java programming language </CourseInfo>
     <Lesson Name="Course Intro" Id="lesson_ap_csa_intro" Path="computer-science/"> </Lesson>
+    <Header Name="Unit 1"> </Header>
 </XML>
